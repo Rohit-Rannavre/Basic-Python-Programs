@@ -1,4 +1,4 @@
 
-#Simple hello world programm
+#Simple hello world program
 
 print ("Hello World!")
